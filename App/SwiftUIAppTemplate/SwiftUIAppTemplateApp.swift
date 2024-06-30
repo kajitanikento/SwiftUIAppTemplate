@@ -12,7 +12,7 @@ import LaunchFeature
 struct SwiftUIAppTemplateApp: App {
     var body: some Scene {
         WindowGroup {
-            LaunchView()
+            LaunchViewBuilder.build()
         }
     }
 }

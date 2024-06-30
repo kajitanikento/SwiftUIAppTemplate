@@ -1,5 +1,5 @@
 import XCTest
-@testable import Scalendar
+@testable import LaunchFeature
 
 final class LaunchFeatureTests: XCTestCase {
     func testExample() throws {
